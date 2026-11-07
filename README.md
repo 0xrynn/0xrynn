@@ -38,7 +38,7 @@ a working proof of concept, and a write-up a triager can verify in minutes.
 | Domain | What I look at |
 |---|---|
 | 🌐 **Web Applications** | Broken access control / IDOR, authentication & session handling, SSRF, business-logic flaws, weak cryptography |
-| ⛓️ **Smart Contracts** | Move (Sui) and Solidity: access control, logic errors, state-handling and invariant violations |
+| ⛓️ **Smart Contracts** | Move (Sui & Aptos) and Solidity: access control, logic errors, state-handling and invariant violations |
 | 📱 **Mobile (Android)** | Insecure storage, exported components, traffic and API-trust analysis |
 | 🧠 **Binary / Memory Safety** | Memory-corruption fundamentals and exploitation research |
 
@@ -68,6 +68,7 @@ a working proof of concept, and a write-up a triager can verify in minutes.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Move](https://img.shields.io/badge/Move%20(Sui)-4DA2FF?style=flat-square&logo=sui&logoColor=white)
+![Aptos](https://img.shields.io/badge/Aptos%20Labs-000000?style=flat-square&logo=aptos&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -79,7 +80,7 @@ a working proof of concept, and a write-up a triager can verify in minutes.
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-0xrynn-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/0xrynn)
 [![Intigriti](https://img.shields.io/badge/Intigriti-0xrynn-161A36?style=for-the-badge)](https://app.intigriti.com/profile/0xrynn)
 [![HackenProof](https://img.shields.io/badge/HackenProof-0xrynn-00b894?style=for-the-badge)](https://hackenproof.com/hackers/0xrynn)
-[![YesWeHack](https://img.shields.io/badge/YesWeHack-0xrynn-000000?style=for-the-badge&logo=yeswehack&logoColor=white)](https://yeswehack.com/hunters/0xrynn)
+[![RedStorm](https://img.shields.io/badge/RedStorm-0xrynn-D7263D?style=for-the-badge)](https://www.redstorm.io)
 
 ---
 
