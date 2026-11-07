@@ -102,18 +102,6 @@ Built for learning and basic security monitoring: the defensive side of the same
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xrynn/0xrynn/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xrynn/0xrynn/output/github-snake.svg" />
-    <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/0xrynn/0xrynn/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
 ## 🤝 Principles
 
 - ✅ **Only in-scope targets** and only within program rules
