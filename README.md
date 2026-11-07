@@ -82,6 +82,10 @@ a working proof of concept, and a write-up a triager can verify in minutes.
 [![HackenProof](https://img.shields.io/badge/HackenProof-0xrynn-00b894?style=for-the-badge)](https://hackenproof.com/hackers/0xrynn)
 [![RedStorm](https://img.shields.io/badge/RedStorm-0xrynn-D7263D?style=for-the-badge)](https://www.redstorm.io)
 
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0xrynn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0xrynn/)
+
 ---
 
 ## 📂 Featured Project
